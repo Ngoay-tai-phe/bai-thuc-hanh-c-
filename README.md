@@ -1,2 +1,5 @@
-# bai-thuc-hanh-c-
+# bai-thuc-hanh-csharp
+
 read the readme
+delegate, event, oop
+
